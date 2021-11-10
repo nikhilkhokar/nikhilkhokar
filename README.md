@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Khokar</h1>
-<h3 align="center">Programmer, Android Developer And A Student.</h3>
+<h3 align="center">A B.tech. Information Technology Student, A Programmer And An Android Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkhokar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkhokar" /> </p>
 
